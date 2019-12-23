@@ -2,6 +2,9 @@ package com.github.m_faheem_khan;
 
 import java.util.Scanner;
 
+// Phone Number Formatter
+// 1234567890 -> (123) 456-7890
+
 public class Main {
 
     public static void main(String[] args) {
